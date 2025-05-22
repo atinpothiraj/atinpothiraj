@@ -1,5 +1,3 @@
-## Hi! My name is Atin Pothiraj and I'm an undergrad at UNC Chapel Hill.
-
 <!--
 **atinpothiraj/atinpothiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
